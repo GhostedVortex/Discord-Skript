@@ -1,0 +1,5 @@
+command /discord:
+    cooldown: 5 seconds
+    cooldown message: &cYou have to wait %remaining time% to run that command again
+    trigger:
+        send &9&lDiscord &8&l| &7<link:https://discord.gg/2Zpthbrtrk>Click here<reset>
